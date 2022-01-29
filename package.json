@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/VaneMedina/Servidor-Web-Express#readme",
   "dependencies": {
+    "express": "^4.17.2",
     "nodemon": "^2.0.15"
   }
 }
