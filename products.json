@@ -2,25 +2,19 @@
   {
     "title": "Almohadones Tusor",
     "price": 120,
-    "thumbnail": "",
-    "id": 2
+    "thumbnail": "url",
+    "id": 1
   },
   {
     "title": "Almohadones Pana",
     "price": 140,
-    "thumbnail": "",
-    "id": 3
-  },
-  {
-    "title": "Almohadones Tusor",
-    "price": 120,
-    "thumbnail": "",
+    "thumbnail": "url",
     "id": 2
   },
   {
-    "title": "Almohadones Pana",
-    "price": 140,
-    "thumbnail": "",
+    "title": "Almohadones",
+    "price": 100,
+    "thumbnail": "url",
     "id": 3
   }
 ]
