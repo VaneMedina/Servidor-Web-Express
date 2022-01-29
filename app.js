@@ -6,8 +6,9 @@ const instancia = new Contenedor("./products.json");
 
 //(app) Aplicación servidor 
 const app = express()
+
 app.get('/', async (req, res) => {
-   res.send("<h1 style='color: blue'>Bienvenidos al servidor express</h1>\n <h2 style='color: pink'>Para ver todos los productos agregar a la url/productos\n . Para ver un producto random agregar /productoRandom</h2>");
+   res.send("<h1 style='color: blue'>Bienvenidos al servidor express</h1>\n <h2 style='color: pink'>Para ver todos los productos agregar a la url /productos. \n Para ver un producto random agregar /productoRandom.</h2>");
 })
 
 app.get('/productos', async (req, res) => {
